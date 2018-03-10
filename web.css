@@ -1,0 +1,326 @@
+.main{
+		width:100%;
+		height:600px;
+	   margin:0px;
+		padding:0px;
+		
+}
+	*{margin:0px;padding:0px;}
+
+
+.navigation{
+		height:100px;
+		background-color:black;
+		position:fixed;
+		top:0px;
+		left:0px;
+		width:100%;
+		z-index:1;
+}
+.logo{
+		width:10%;
+		color:white;
+		font-size:30px;
+		padding-left:40px;
+		padding-top:40px;
+		float:left;
+		background-color:;
+}
+span{
+	color:red;
+}
+.navbar{
+		width:50%;
+		float:left;
+		background-color:;
+		margin-left:50px;
+		
+}
+.navbar ul{
+		margin-top:30px;
+		text-decoration:none;
+	
+}
+.navbar ul li{
+		font-size:10px;
+		display:inline;
+		margin-right:30px;
+			
+	}
+.drag {
+		display:block;
+		display:none;
+		
+}
+.navbar 
+	.home{
+		background-color:red;
+		ss
+	}
+	a{
+		text-decoration:none;
+		color:#D3D2D1;
+	}
+.slider  img{
+		width:100%;
+			
+}
+.image_content{
+		position:absolute;
+		top:200px;
+		left:380px;
+		font-size:70px;
+		color:#393939;
+		text-align:right;
+}
+.p1{
+		position:absolute;
+		top:280px;
+		left:420px;
+		font-size:20px;
+}
+.p2{
+		position:absolute;
+		top:350px;
+		left:600px;
+		font-size:25px;
+		border:1px solid white;
+		margin:5px;
+		
+}
+a:hover{background-color:white;color:black;}
+.content{
+		height:200px;
+		
+}
+.title{
+		font-size:50px;
+		padding-left:0px;
+		padding-top:20px;
+		text-align:center;
+}
+.title div{
+	font-size:35px;
+	color:#9D9C9C;
+	text-align:center;
+	padding-top:10px;
+
+}
+.fa-heart-o{
+	font-size:20px;
+}
+.love{
+		width:20%;
+		height:200px;
+		background-color:;
+		text-align:justify;
+		float:left;
+		margin-top:20px;
+		margin-right:25px;
+		margin-left:70px;
+		padding:6px;
+		
+}
+.boot{
+		width:20%;
+		height:200px;
+		background-color:;
+		float:left;
+		margin-top:20px;
+		margin-right:25px;
+		padding:6px;
+}		
+.clean{
+		width:20%;
+		height:200px;
+		background-color:;
+		float:left;
+		margin-top:20px;
+		margin-right:25px;
+		padding:6px;
+}		
+
+.responsive{
+		width:20%;
+		height:200px;
+		background-color:;
+		float:left;
+		margin-top:20px;
+		margin-right:25px;
+		padding:6px;
+}		
+.images{
+			height:200px;
+			
+			margin-top:200px;
+}
+.recent_work{
+			 font-size:50px;
+			text-align:center;
+}
+.describe{
+			display:inline;
+			
+}
+.describe ul{
+			display:inline;
+			padding-left:40px;
+			margin-left:300px;
+}
+.describe ul li{
+			display:inline;
+			
+			font-size:30px;
+			padding-right:10px;
+			background-color:#B5B5B4;
+			margin-left:30px;
+			
+}
+.img123{
+			margin-left:100px;
+			
+			margin-top:20px;
+}
+.img456{
+			margin-left:100px;
+			
+			margin-top:20px;
+}
+.portfolio{
+			width:250px;
+			color:black;
+			text-align:center;
+			margin-top:30px;
+			font-size:30px;
+			border:1px solid red;
+			margin-left:550px;
+		
+			
+			
+}
+.portfolio:hover{
+			
+				background-color:red;
+	}
+.about_us{
+			background-color:yellow;
+			height:300px;
+			margin-top:650px;
+			padding-top:40px;
+}
+.title1{
+			font-size:40px;
+			text-align:center;
+}
+.info{
+			text-align:center;
+}
+.icons{
+			margin-left:450px;
+			text-align:center;
+}
+.icons i{	
+			width:30px;
+			background-color:white;
+			margin-right:10px;
+}
+.latest_news{
+			font-size:50px;
+			text-align:center;
+			padding-top:80px;
+}
+.gallery1{
+			margin-left:40px;
+}
+.data{
+			
+			margin-left:40px;
+}
+.data p{
+			float:left;
+			padding-right:120px;
+}
+.data p b:hover{
+			color:red;
+}
+.footer{	margin-top:200px;
+			background-color:#727271;
+			height:400px;
+}
+.about {
+			width:20%;
+			height:200px;
+			float:left;
+			margin-left:30px;
+			margin-top:10px;
+			font-family:italic;
+			
+}
+.about b{
+			color:#f8f8f8;
+			font-size:20px;
+			
+}
+.latest_post{
+			width:20%;
+			float:left;
+			height:200px;
+			margin-left:30px;
+			margin-top:10px;
+			
+}
+.latest_post:hover{color:red !important;}
+.latest_post b{
+				color:#f8f8f8;
+			   font-size:20px;
+			  
+}
+.latest_work{
+			width:20%;
+			float:left;
+			height:200px;
+			margin-left:50px;
+			margin-top:10px;
+			font-size:20px;
+			color:#f8f8f8;
+}
+.latest_work img{
+			border:1px solid white;
+}
+.latest_work img:hover{
+			border:1px solid red;
+}
+.getintouch{
+			width:20%;
+			float:left;
+			height:200px;
+			margin-top:10px;
+			margin-left:50px;
+			font-size:18px;
+			
+}
+.getintouch b{
+			color:#f8f8f8;
+			font-size:20px;
+			
+}
+
+.getintouch em:hover{
+			background-color:blue;
+			border:1px solid black;
+					
+}
+em{
+		font-size:30px;
+}
+.copy{
+		font-size:30px;
+		text-align:center;
+		clear:left;
+		color:white;
+		padding-top:50px;
+		
+}
+.copy p{font-size:20px;}
+.icon1:hover{background-color:red;}
+
